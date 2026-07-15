@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="mbsniffer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="26"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UMain"/>
+        <TopLine Value="124"/>
+        <CursorPos X="43" Y="118"/>
+        <UsageCount Value="26"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umodbussniffer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UModbusSniffer"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="646"/>
+        <CursorPos Y="730"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umodbustypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UModbusTypes"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="326"/>
+        <CursorPos Y="359"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umodbusutils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UModbusUtils"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="348"/>
+        <CursorPos Y="381"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="umodbusparser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UModbusParser"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="524"/>
+        <CursorPos Y="557"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uaboutbox.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UAboutBox"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="41" Y="27"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="180" Column="15" TopLine="156"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="339" Column="23" TopLine="315"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="343" Column="23" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="391" Column="21" TopLine="367"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="408" Column="21" TopLine="384"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="647" Column="23" TopLine="624"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="650" Column="23" TopLine="626"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="811" Column="15" TopLine="787"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="182" Column="41" TopLine="160"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="183" Column="41" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="182" Column="41" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="183" Column="41" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="182" Column="41" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="3" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="698" Column="51" TopLine="690"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbustypes.pas"/>
+        <Caret Column="7"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbusutils.pas"/>
+        <Caret Line="78" Column="34" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbussniffer.pas"/>
+        <Caret Line="207" Column="75" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbussniffer.pas"/>
+        <Caret Line="33" Column="34" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="674" Column="7" TopLine="615"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbusparser.pas"/>
+        <Caret Line="292"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbusutils.pas"/>
+        <Caret Line="106"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbustypes.pas"/>
+        <Caret Line="103" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbustypes.pas"/>
+        <Caret Line="11" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbusutils.pas"/>
+        <Caret Line="252" Column="62" TopLine="195"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbusparser.pas"/>
+        <Caret Line="11" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="umodbussniffer.pas"/>
+        <Caret Line="11" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="480" Column="28" TopLine="472"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="105" Column="27" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="umain.pas"/>
+        <Caret Line="504" Column="71" TopLine="500"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
